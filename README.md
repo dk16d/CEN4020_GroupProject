@@ -2,8 +2,10 @@
 WebSight is a web application that allows users to receive alerts whenever an added website is updated.
 
 /******************************************************************
+
 To view the user account database, check out this link at part 5 & 6.
 https://docs.microsoft.com/en-us/aspnet/web-forms/overview/security/create-a-secure-aspnet-web-forms-app-with-user-registration-email-confirmation-and-password-reset
+
 /******************************************************************
 
 
