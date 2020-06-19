@@ -18,8 +18,8 @@ namespace WebSight_v0.Models
 
         public Manager(List<Account> al, List<Site> mwl)  //parameterized constructor to add to lists
         {
-            accountList = al;
-            masterWebList = mwl;
+          List<Account> accountList = new List<Account>(al);
+          List<Site> masterWebList = new List<Site>(mwl);
         }
         public void DeleteAccount(Account a)        //public void function to delete user account from list
         {
