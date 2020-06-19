@@ -25,7 +25,7 @@ namespace WebSight_v0.Models
             userID = id;                //userID, name, password, and webList
             name = n;
             password = pw;
-            webList = wl;
+            List<Site> webList = new List<Site>(wl);
         }
         public void changeName(string n)  //public void function to change user's name
         {
