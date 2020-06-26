@@ -1,0 +1,19 @@
+**************************** Increment 2 ******************************
+TASKS:
+*** Implement (or at least set up) SendGrid API
+https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email
+^This is probably the better way to go but...
+vThis has good info/examples too.
+https://docs.microsoft.com/en-us/aspnet/web-forms/overview/security/create-a-
+secure-aspnet-web-forms-app-with-user-registration-email-confirmation-and-pass
+word-reset#SG
+
+*** Make Log In Page the main entry point (If logged in, allow access to Main Page.
+	Else, force user to log in. [Should NOT be able to paste URL as workaround]).
+
+*** Decide on databases and hosting, use Microsoft SQL hosted using MS Azure?
+
+
+DIVISION OF WORK:
+??Create separate branches and merge weekly??
+Document any and all work or changes in the PR, RD, & IT docs as you go along.
