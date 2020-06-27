@@ -1,4 +1,7 @@
 **************************** Increment 2 ******************************
+
+{} Make sure to ALWAYS run Visual Studio as an ADMINISTRATOR!!!
+
 TASKS:
 *** Implement (or at least set up) SendGrid API
 https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email

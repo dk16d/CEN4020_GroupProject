@@ -1,5 +1,8 @@
 ******** IDE: Microsoft Visual Studio 2019 ********
 Installation Guide for Visual Studio & C# packages:
+
+~~MAKE SURE YOU ALWAYS RUN VS AS AN ADMINISTRATOR.~~
+
 https://www.youtube.com/watch?v=oc__Iqeun4E&feature=emb_title
 https://www.youtube.com/watch?v=rGu7H6vg0Z0&feature=emb_title
 
