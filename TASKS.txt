@@ -1,6 +1,9 @@
 **************************** Increment 2 ******************************
-
-{} Make sure to ALWAYS run Visual Studio as an ADMINISTRATOR!!!
+Make sure that everyone:
+{} Has Visual Studio and its necessary packages.
+{} Knows how to use Github efficiently (VS Team Explorer, and maybe VS Code).
+{} ALWAYS runs Visual Studio as an ADMINISTRATOR.
+{}
 
 TASKS:
 *** Implement (or at least set up) SendGrid API
@@ -16,6 +19,9 @@ word-reset#SG
 
 *** Decide on databases and hosting, use Microsoft SQL hosted using MS Azure?
 
+*** [Mid Priority?] IIS Express is a VIRTUAL developer only mode, we will need
+ to install "IIS Local" at some point... Click on individual PROJECT (not
+solution), go to properties. Go to Web, and look at Servers.
 
 DIVISION OF WORK:
 ??Create separate branches and merge weekly??
