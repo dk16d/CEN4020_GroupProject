@@ -78,11 +78,46 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\" />
     <Folder Include="Controllers\" />
     <Folder Include="Scripts\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.bootstrap.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.bootstrap.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.bootstrap4.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.bootstrap4.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.foundation.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.foundation.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.jqueryui.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.jqueryui.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.semanticui.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\dataTables.semanticui.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\jquery.dataTables.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\css\jquery.dataTables.min.css" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\images\sort_asc.png" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\images\sort_asc_disabled.png" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\images\sort_both.png" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\images\sort_desc.png" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\images\sort_desc_disabled.png" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.bootstrap.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.bootstrap.min.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.bootstrap4.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.bootstrap4.min.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.foundation.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.foundation.min.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.jqueryui.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.jqueryui.min.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.semanticui.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\dataTables.semanticui.min.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\jquery.dataTables.js" />
+    <Content Include="Content\DataTables\DataTables-1.10.21\js\jquery.dataTables.min.js" />
+    <Content Include="Content\DataTables\datatables.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="HomePage.aspx" />
     <Content Include="Views\Web.config" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
@@ -101,12 +136,25 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="HomePage.aspx.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HomePage.aspx.designer.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Manager.cs" />
     <Compile Include="Models\Site.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="libman.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
