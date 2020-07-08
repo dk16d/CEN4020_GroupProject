@@ -26,3 +26,6 @@ solution), go to properties. Go to Web, and look at Servers.
 DIVISION OF WORK:
 ??Create separate branches and merge weekly??
 Document any and all work or changes in the PR, RD, & IT docs as you go along.
+
+
+// FIX FOR MAC... Remove System Web Entity from References in Solution Explorer.

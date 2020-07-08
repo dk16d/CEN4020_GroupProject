@@ -172,7 +172,6 @@ C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSig
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.Security.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v0\bin\Microsoft.Owin.Security.Google.dll
