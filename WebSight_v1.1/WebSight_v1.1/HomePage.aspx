@@ -137,7 +137,7 @@
         </tr>
         <tr>
             <td class="auto-style18">
-                    <asp:TextBox ID="TextBox1" runat="server" text="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999"></asp:TextBox>
+                    <asp:TextBox ID="TextBox1" runat="server" OnClick="TextBox1_Click" text="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999"></asp:TextBox>
                     <br />
                     <br />
             </td>
