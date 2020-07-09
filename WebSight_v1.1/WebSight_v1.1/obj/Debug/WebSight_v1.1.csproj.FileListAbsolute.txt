@@ -81,3 +81,4 @@ C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSig
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v1.1\WebSight_v1.1\obj\Debug\WebSight_v1.1.csproj.CopyComplete
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v1.1\WebSight_v1.1\obj\Debug\WebSight_v1.1.dll
 C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v1.1\WebSight_v1.1\obj\Debug\WebSight_v1.1.pdb
+C:\Users\desol\Desktop\Projects\CEN4020_GroupProject\CEN4020_GroupProject\WebSight_v1.1\WebSight_v1.1\obj\Debug\WebSight_v1.1.csprojAssemblyReference.cache

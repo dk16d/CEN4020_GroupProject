@@ -117,8 +117,8 @@
         
         <tr>
             <td class="auto-style9">
-                <asp:DropDownList ID="DropDownList1" runat="server" Height="45px" Width="200px" style="float:Left" >
-                    <asp:ListItem Selected="True">Current Websites</asp:ListItem>
+                <asp:DropDownList ID="DropDownList1" runat="server" placeholder="Current Websites" Height="45px" Width="200px" style="float:Left" >
+                    <%--<asp:ListItem Selected="True">Current Websites</asp:ListItem>--%>
                     <asp:ListItem>Website1</asp:ListItem>
                     <asp:ListItem>Website2</asp:ListItem>
                     <asp:ListItem>Website3</asp:ListItem>
@@ -137,7 +137,7 @@
         </tr>
         <tr>
             <td class="auto-style18">
-                    <asp:TextBox ID="TextBox1" runat="server" OnClick="TextBox1_Click" text="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999"></asp:TextBox>
+                    <asp:TextBox ID="TextBox1" runat="server" placeholder="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999"></asp:TextBox>
                     <br />
                     <br />
             </td>

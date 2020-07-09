@@ -34,12 +34,5 @@ namespace WebSight_v1.Account
 
 
         }
-
-        //protected void TextBox1_Click(object sender, EventArgs e)
-        //{
-        //    if (TextBox1.Text == "Enter URL Here")
-        //        TextBox1.Text = "";
-        //}
-
     }
 }
