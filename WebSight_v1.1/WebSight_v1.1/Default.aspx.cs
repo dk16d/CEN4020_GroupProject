@@ -26,7 +26,7 @@ namespace WebSight_v1.Account
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("login.aspx");
+
         }
 
         protected void TextBox1_TextChanged1(object sender, EventArgs e)
