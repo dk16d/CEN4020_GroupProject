@@ -117,8 +117,8 @@
         
         <tr>
             <td class="auto-style9">
-                <asp:DropDownList ID="DropDownList1" runat="server" placeholder="Current Websites" Height="45px" Width="200px" style="float:Left" >
-                    <%--<asp:ListItem Selected="True">Current Websites</asp:ListItem>--%>
+                <asp:DropDownList ID="DropDownList1" runat="server" Height="45px" Width="200px" style="float:Left" >
+                    <asp:ListItem Selected="True">Current Websites</asp:ListItem>
                     <asp:ListItem>Website1</asp:ListItem>
                     <asp:ListItem>Website2</asp:ListItem>
                     <asp:ListItem>Website3</asp:ListItem>
