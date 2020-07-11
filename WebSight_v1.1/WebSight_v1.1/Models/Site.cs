@@ -22,10 +22,11 @@ namespace WebSight_v1.Models
             nickName = String.Empty;
         }
 
-        public Site(int id, string name, DateTime expires)
+        public Site(int id, string url, string name, DateTime expires)
         {
             siteID = id;
             nickName = name;
+            URL = url;
             dateAdded = DateTime.Now;
             dateExpires = expires;
         }
