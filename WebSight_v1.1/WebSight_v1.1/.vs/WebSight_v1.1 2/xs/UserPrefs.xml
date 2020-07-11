@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6687B12E-0E89-410D-A771-8D3D1CE98A68}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebSight_v1.1 2" expanded="True">
+            <Node name="WebSight_v1.1 2" expanded="True">
+              <Node name="Global.asax" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebSight__v1.1_2202 PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6687B12E-0E89-410D-A771-8D3D1CE98A68}|">
+  <MonoDevelop.Ide.ItemProperties.WebSight__v1.1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSight_v1.1/Global.asax.cs">
+    <Files>
+      <File FileName="WebSight_v1.1/Default.aspx.cs" Line="1" Column="1" />
+      <File FileName="WebSight_v1.1/Default.aspx" Line="1" Column="1" />
+      <File FileName="WebSight_v1.1/Global.asax.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebSight_v1.1" expanded="True">
+            <Node name="WebSight_v1.1" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Global.asax" expanded="True" selected="True" />
+            </Node>
+            <Node name="WebSight_v1.1.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WebSight_v1.1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

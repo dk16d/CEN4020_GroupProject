@@ -1,0 +1,4 @@
+/Users/Kendall/Documents/cen4020/Project/WebSight_v1.1/WebSight_v1.1/obj/Debug/WebSight_v1.1 2.csprojAssemblyReference.cache
+/Users/Kendall/Documents/cen4020/Project/WebSight_v1.1/WebSight_v1.1/obj/Debug/WebSight_v1.1 2.csproj.CoreCompileInputs.cache
+/Users/Kendall/Documents/cen4020/Project/WebSight_v1.1/WebSight_v1.1/obj/Debug/WebSight_v1.1.dll
+/Users/Kendall/Documents/cen4020/Project/WebSight_v1.1/WebSight_v1.1/obj/Debug/WebSight_v1.1.pdb
