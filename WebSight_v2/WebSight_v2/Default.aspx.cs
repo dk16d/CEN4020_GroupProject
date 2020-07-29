@@ -21,7 +21,7 @@ namespace WebSight_v1.Account
     public partial class WebForm1 : System.Web.UI.Page
     {
         bool Flag = false;
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\COREY\Source\Repos\CEN4020_GroupProject\WebSight_v2\WebSight_v2\App_Data\aspnet-WebSight_v2-20200723123741.mdf;Initial Catalog=aspnet-WebSight_v2-20200723123741;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\Darren\Documents\GitHub\CEN4020_GroupProject\WebSight_v2\WebSight_v2\App_Data\aspnet-WebSight_v2-20200723123741.mdf;Initial Catalog=aspnet-WebSight_v2-20200723123741;Integrated Security=True");
 
         public object TextBox1 { get; private set; }
 
