@@ -89,10 +89,6 @@
             .auto-style22 {
             width: 531px;
         }
-        .auto-style23 {
-            width: 477px;
-            margin-left: 60px;
-        }
         .auto-style24 {
             height: 33px;
         }
@@ -103,6 +99,9 @@
         .auto-style26 {
             width: 600px;
             height: 36px;
+        }
+            #Text1 {
+            width: 581px;
         }
             </style> 
 
@@ -117,15 +116,17 @@
         
         <tr>
             <td class="auto-style9">
-                <asp:DropDownList ID="DropDownList1" runat="server" Height="45px" Width="200px" style="float:Left" >
+                <asp:DropDownList ID="DropDownList1" runat="server" Height="45px" Width="200px" style="float:Left" DataSourceID="SqlDataSource1" DataTextField="URL" DataValueField="URL" >
                     <asp:ListItem Selected="True">Current Websites</asp:ListItem>
                     <asp:ListItem>Website1</asp:ListItem>
                     <asp:ListItem>Website2</asp:ListItem>
                     <asp:ListItem>Website3</asp:ListItem>
                     </asp:DropDownList>
             
+                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:DefaultConnection %>" SelectCommand="SELECT [URL] FROM [Table]"></asp:SqlDataSource>
+            
                 <asp:Button ID="Button1" runat="server" Text="Login/out" Width="86px" style="float:right" CssClass="pull-right" OnClick="Button1_Click" />
-                <asp:Button ID="Button2" runat="server" Text="Manage Alerts" style="float:right" Width="140px" />
+                <asp:Button ID="Button2" runat="server" Text="Manage Alerts" style="float:right" Width="140px" OnClick="Button2_Click" />
             </td>
         </tr>
         <tr>
@@ -137,7 +138,7 @@
         </tr>
         <tr>
             <td class="auto-style18">
-                    <asp:TextBox ID="TextBox1" runat="server" placeholder="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999"></asp:TextBox>
+                    <asp:TextBox ID="TextEntered" runat="server" placeholder="Enter URL Here" style="text-align:center;" Width="385px" BorderStyle="Groove" CssClass="auto-style16" BackColor="#CCCCCC" BorderColor="#999999" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
                     <br />
                     <br />
             </td>

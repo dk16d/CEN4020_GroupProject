@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebSightv220200727195954" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\COREY\\source\\repos\\CEN4020_GroupProject\\WebSight_v2\\WebSight_v2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\COREY\\source\\repos\\CEN4020_GroupProject\\WebSight_v2\\WebSight_v2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-WebSight_v2-20200723123741.mdf;Initial Catalog=aspnet-WebSight_v2-20200723123741;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\COREY\\source\\repos\\CEN4020_GroupProject\\WebSight_v2\\WebSight_v2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

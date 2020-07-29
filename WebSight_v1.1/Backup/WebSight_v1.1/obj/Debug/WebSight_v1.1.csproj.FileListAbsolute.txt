@@ -1,0 +1,2 @@
+C:\Users\COREY\source\repos\CEN4020_GroupProject\WebSight_v1.1\Backup\WebSight_v1.1\obj\Debug\WebSight_v1.1.csprojAssemblyReference.cache
+C:\Users\COREY\source\repos\CEN4020_GroupProject\WebSight_v1.1\Backup\WebSight_v1.1\obj\Debug\WebSight_v1.1.csproj.CoreCompileInputs.cache
